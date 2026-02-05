@@ -1,35 +1,40 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi, I'm Shubham Bhatt</h1>
-  <h3>AI Engineer | Full Stack Architect | Innovator</h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
   
-  <p>
-    Building the future with <b>Artificial Intelligence</b> and <b>Scalable Cloud Systems</b>.
-    <br/>
-    Focused on creating clean, high-performance, and user-centric applications.
+  <h1 align="center">Shubham Bhatt</h1>
+  <h3 align="center">AI Engineer | Full Stack Developer | Web Specialist</h3>
+  
+  <p align="center">
+    <b>Turning Logic into Magic.</b><br/>
+    I build intelligent Artificial Intelligence systems and high-performance Web Applications.
   </p>
 
-  <a href="https://github.com/shubhambhatt1251">
-    <img src="https://img.shields.io/github/followers/shubhambhatt1251?label=Followers&style=social" alt="Followers" />
-  </a>
-  <a href="https://twitter.com/shubhambhatt">
-    <img src="https://img.shields.io/twitter/follow/shubhambhatt?style=social" alt="Twitter" />
-  </a>
+  <div align="center">
+    <a href="https://github.com/shubhambhatt1251">
+      <img src="https://img.shields.io/github/followers/shubhambhatt1251?label=Followers&style=social" alt="Followers" />
+    </a>
+    <a href="https://twitter.com/shubhambhatt">
+      <img src="https://img.shields.io/twitter/follow/shubhambhatt?style=social" alt="Twitter" />
+    </a>
+    <a href="mailto:shubhambhatt1251@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
 
-I am a **Full Stack Developer** and **AI Enthusiast** with a deep passion for solving complex problems. I specialize in building production-ready applications that merge advanced backend logic with stunning frontend experiences.
+I am a passionate **AI & Full Stack Developer** dedicated to building the "next big thing." I focus on writing clean, efficient code for the web and training smart AI models.
 
-- 🔭 **Working on**: High-scale AI Agents and Distributed Systems.
-- 🌱 **Learning**: Advanced Neural Architectures & Quantum Computing.
-- 🎓 **Goal**: To revolutionize how humans interact with technology.
+- 🔭 **Focus**: Advanced Web Development (React/Next.js) & AI Agents.
+- 💡 **Specialty**: Full Stack Architecture without the bloat.
+- 🚀 **Mission**: To create software that feels alive.
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -38,12 +43,12 @@ I am a **Full Stack Developer** and **AI Enthusiast** with a deep passion for so
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhambhatt1251/shubhambhatt1251/output/github-contribution-grid-snake.svg">
   </picture>
   <br/>
-  <i>My code never sleeps. (Updated every 12 hours)</i>
+  <i><b>Green means GO.</b> I commit code every single day.</i>
 </div>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
   <table>
@@ -53,9 +58,6 @@ I am a **Full Stack Developer** and **AI Enthusiast** with a deep passion for so
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /><br>JavaScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /><br>TypeScript
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /><br>React
@@ -69,28 +71,13 @@ I am a **Full Stack Developer** and **AI Enthusiast** with a deep passion for so
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" /><br>PyTorch
       </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="TensorFlow" /><br>TensorFlow
-      </td>
     </tr>
     <tr>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /><br>Docker
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" /><br>AWS
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="TensorFlow" /><br>TensorFlow
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /><br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" /><br>FastAPI
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++" /><br>C++
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=rust" width="40" alt="Rust" /><br>Rust
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" /><br>MongoDB
@@ -98,23 +85,29 @@ I am a **Full Stack Developer** and **AI Enthusiast** with a deep passion for so
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="Postgres" /><br>Postgres
       </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /><br>Docker
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VSCode" /><br>VS Code
+      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-### 📊 Performance Analytics
+### 📊 Build Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhambhatt1251&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=0075ff&text_color=bfbfbf&icon_color=0075ff" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambhatt1251&layout=compact&theme=transparent&hide_border=true&title_color=0075ff&text_color=bfbfbf&icon_color=0075ff&langs_count=6" height="150" alt="languages graph" />
+  <!-- GitHub Generic Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhambhatt1251&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambhatt1251&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="languages graph" />
 </div>
-
 <br/>
-
 <div align="center">
-  <a href="mailto:shubhambhatt1251@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shubhambhatt1251%40gmail.com-0075ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambhatt1251&theme=react&hide_border=true&background=0D1117" alt="Streak Stats" />
 </div>
