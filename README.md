@@ -16,16 +16,18 @@
 
 <br/>
 
-### 👨‍💻 **Architecting the Future**
+### 👨‍💻 **About Me**
 
-I am a **Full Stack AI Engineer** obsessed with the intersection of **Generative AI** and **High-Performance Web Systems**. 
+**Glad to have you here on my GitHub profile!** 
 
-My work bridges the gap between raw intelligence and human-computer interaction. I don't just build websites; I build **intelligent ecosystems** that feel alive, responsive, and magically intuitive.
+I'm a **final-year engineering student** with a strong inclination towards **AI-powered solutions** and **full-stack application development**. I love building intelligent, user-focused tools that blend cutting-edge technologies with clean design.
 
 > *"Best interfaces are invisible. Greatness is 1000 tiny decisions."*
 
-- 🔭 **Current Focus**: Multi-Modal Agents, RAG Pipelines, and Local-First AI.
-- 💡 **Core Specialty**: Merging Python-based AI backends with reactive Next.js frontends.
+- 🔭 **Currently**: Exploring the intersection of **Artificial Intelligence** and **Software Engineering** to build smart, real-world applications.
+- 💼 **Experience**: Developing AI-integrated web apps, working with LLMs, and crafting responsive full-stack projects.
+- 🌱 **Learning**: continuously adapting — curious about **multimodal AI**, **real-time systems**, and **human-AI interaction**.
+- 🤝 **Collaboration**: Open to collaborations in **AI/ML**, **NLP**, web apps, and research-driven projects.
 - 🚀 **Mission**: To democratize AGI through intuitive, premium user experiences.
 
 ---
