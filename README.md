@@ -43,7 +43,7 @@ My work focuses on production-grade AI systems, not just wrappers.
 | **HOlex AI** | **Enterprise Multi-Modal GenAI Platform**<br>A commercial-grade rival to Gemini/Kimi. Features a custom **Tri-Model Architecture** (H1/C1), **Recursive Agentic Cycle** for self-correction, and **Vector-Augmented Generation** to reduce hallucinations by 40%. | `Next.js` `Python` `LangChain` `Redis` `Pinecone` `React` |
 | **HOlex Beast** | **Local AI Operating System**<br>A privacy-first desktop assistant for Windows. Built on an async event-bus with a **5-Tier LLM Router** (Groq/Gemini/Ollama), offline voice (Vosk), and a **ReAct Agent** capable of controlling 120+ OS apps. | `PyQt5` `AsyncIO` `ChromaDB` `Vosk` `EdgeTTS` `Docker` |
 | **Easy Fusion** | **O2O Culinary Ecosystem**<br>A hyper-local food delivery engine using a **Polyglot Database Strategy** (MongoDB + Redis). Features real-time WebSocket order tracking and NLP-based ingredient mapping. | `MERN Stack` `Redux` `Socket.io` `Stripe` `JWT` |
-| **AI Portfolio** | **Generative UI Experience**<br>An interactive "Digital Twin" that uses RAG to answer recruiter questions about my history and renders live React components inside the chat stream. | `Next.js` `Framer Motion` `OpenAI` `Tailwind` |
+| **AI Portfolio** | **Generative UI Experience**<br>An interactive "Digital Twin" that uses RAG to answer recruiter questions about my history and renders live React components inside the chat stream. | `Next.js` `Framer Motion` `AI` `Tailwind` |
 
 ---
 
