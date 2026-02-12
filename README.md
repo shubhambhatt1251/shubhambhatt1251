@@ -18,13 +18,25 @@
 
 ### 👨‍💻 **Architecting the Future**
 
-I am a **Full Stack AI Engineer** obsessed with the intersection of **Generative AI** and **High-Performance Web Systems**. I don't just build websites; I build intelligent ecosystems that feel alive.
+I am a **Full Stack AI Engineer** obsessed with the intersection of **Generative AI** and **High-Performance Web Systems**. 
+
+My work bridges the gap between raw intelligence and human-computer interaction. I don't just build websites; I build **intelligent ecosystems** that feel alive, responsive, and magically intuitive.
 
 > *"Best interfaces are invisible. Greatness is 1000 tiny decisions."*
 
 - 🔭 **Current Focus**: Multi-Modal Agents, RAG Pipelines, and Local-First AI.
 - 💡 **Core Specialty**: Merging Python-based AI backends with reactive Next.js frontends.
 - 🚀 **Mission**: To democratize AGI through intuitive, premium user experiences.
+
+---
+
+### 🏆 **Achievements Unlocked**
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhambhatt1251&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="shubhambhatt1251" />
+  </a>
+</div>
 
 ---
 
@@ -54,17 +66,7 @@ I treat my tools as extensions of my thought process.
 
 ---
 
-### 📊 **The Data**
-
-<div align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhambhatt1251&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  
-  <!-- Language Analysis -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambhatt1251&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<br/>
+### 🧩 **The Code Canvas**
 
 <div align="center">
   <picture>
@@ -72,6 +74,10 @@ I treat my tools as extensions of my thought process.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhambhatt1251/shubhambhatt1251/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhambhatt1251/shubhambhatt1251/output/github-contribution-grid-snake.svg">
   </picture>
+  
+  <br/><br/>
+  
+  <p><i><b>Green means GO.</b> Creating impact, one commit at a time.</i></p>
 </div>
 
 <br/>
